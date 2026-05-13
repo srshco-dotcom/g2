@@ -27,10 +27,10 @@
       "settings": {
         "clients": [
           {
-            "id": "7bc2bf9e-7442-4b41-ab8e-240401ec68d1",
+            "id": "15581b20-54e0-4aa1-a26e-ebc4ad5d48ee",
             "flow": "",
             "level": 0,
-            "email": "user@nova-relay-167d33"
+            "email": "user@bold-node-0b897e"
           }
         ],
         "decryption": "none"
